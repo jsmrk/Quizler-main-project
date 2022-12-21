@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">190170064586-4agn646kagmupk8gn9tbd9fs985mcnoj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">190170064586</string>
+    <string name="google_api_key" translatable="false">AIzaSyC811ATmu859cpPuYRFFcglopP1VBmhelo</string>
+    <string name="google_app_id" translatable="false">1:190170064586:android:f613515fa5fe10f04d7633</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC811ATmu859cpPuYRFFcglopP1VBmhelo</string>
+    <string name="google_storage_bucket" translatable="false">quizzle-firebase-a50a4.appspot.com</string>
+    <string name="project_id" translatable="false">quizzle-firebase-a50a4</string>
+</resources>

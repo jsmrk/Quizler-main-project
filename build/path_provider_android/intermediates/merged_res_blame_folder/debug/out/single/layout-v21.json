@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\AB\\AndroidStudioProjects\\Quizler-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\AB\\.gradle\\caches\\transforms-2\\files-2.1\\f910e53d48c9bb13b167634611201768\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\AB\\AndroidStudioProjects\\Quizler-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\AB\\.gradle\\caches\\transforms-2\\files-2.1\\f910e53d48c9bb13b167634611201768\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\AB\\AndroidStudioProjects\\Quizler-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\AB\\.gradle\\caches\\transforms-2\\files-2.1\\f910e53d48c9bb13b167634611201768\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\AB\\AndroidStudioProjects\\Quizler-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\AB\\.gradle\\caches\\transforms-2\\files-2.1\\f910e53d48c9bb13b167634611201768\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
